@@ -23,11 +23,12 @@ Thingsat is registered on [TinyGS](https://tinygs.com/satellite/ThingSat)
 ### TinyGS ground stations
 Search `CSUG` at https://tinygs.com/stations
 
+#### 868 MHz
 Current gateways @ [CSUG](https://www.csug.fr/) are:
 * [CSUG_01_Heltec868](https://tinygs.com/station/CSUG_02_Heltec868@1830594236)
 * [CSUG_02_Heltec868](https://tinygs.com/station/CSUG_01_Heltec868@1830594236)
 
-Coming soon:
+#### 2.4 GHz
 * [ESP32 Vroom + Lambda80/E28 2.4GHz LoRa module](https://github.com/thingsat/tinygs_2g4station)
 
 ## Partners
